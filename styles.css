@@ -108,8 +108,8 @@ p {
   color: #FFF;
 }
 .logo {
-  width: auto;
-  height: 50px;
+  width: 210px ;
+  height: 40px ;
   object-fit: contain;
 }
 .navigation {
