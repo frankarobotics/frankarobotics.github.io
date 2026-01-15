@@ -108,7 +108,7 @@ p {
   color: #FFF;
 }
 .logo {
-  width: 210px;
+  width: auto;
   height: 40px;
   object-fit: contain;
 }
