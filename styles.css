@@ -109,7 +109,7 @@ p {
 }
 .logo {
   width: 210px;
-  height: 40;
+  height: auto;
   object-fit: contain;
 }
 .navigation {
